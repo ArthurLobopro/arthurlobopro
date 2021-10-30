@@ -7,12 +7,13 @@ I’m looking for help with Electron.
 Fun fact: I'm brazilian and have 16 years old.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLobopro&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLobopro&theme=radical&layout=compact">
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arthurlobopro&show_icons=true&theme=radical">
 </p>
+
 <!--
 **ArthurLobopro/arthurlobopro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
