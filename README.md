@@ -29,13 +29,13 @@ I've published the [electron-frame](https://github.com/arthurlobopro/electron-fr
 
 <br/><br/>
 
-## Some funny analytics
+<!-- ## Some funny analytics
 
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLobopro&theme=radical&layout=compact">
 
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=arthurlobopro&show_icons=true&theme=radical">
-</div>
+</div> -->
 
 <!-- ## I'm currently working/learning these technologies
 
