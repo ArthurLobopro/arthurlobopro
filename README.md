@@ -29,6 +29,16 @@ I've published the [electron-frame](https://github.com/arthurlobopro/electron-fr
 
 <br/><br/>
 
+## My social midia
+
+<a href="https://www.linkedin.com/in/arthur-lobo-940a99263/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Arthur%20Lobo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/arthur_cipriano_lobo/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Arthur%20Lobo-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+
 ## Some funny analytics
 
 <div align="center">
