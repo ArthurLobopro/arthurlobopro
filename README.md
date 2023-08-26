@@ -2,10 +2,7 @@
 
 ## About me
 
-I currently working on self-projects with **electron** and learning development backend with **nodejs**, **express** and **prisma**.
-
-I've published the [electron-frame](https://github.com/arthurlobopro/electron-frame) package on npm but it's not used much.
-
+I am front end developer that know somethings of backend, I like to use electron to make desktop aplications. My favorite thing is learn new things and upgrade my old creations trying to make the better version in each step.
 
 ## My stack
 
