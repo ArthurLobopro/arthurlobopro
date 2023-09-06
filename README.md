@@ -1,8 +1,6 @@
 # Hi there, I'm Arthur Lobo 👋
 
-## About me
-
-I am front end developer that know somethings of backend, I like to use electron to make desktop aplications. My favorite thing is learn new things and upgrade my old creations trying to make the better version in each step.
+I am a junior front end developer and know a little about backend. I am searching for a job or internship to aquire experience in real projecs. If you like my profile and like me, just send a message in my social media.
 
 ## My stack
 
@@ -26,7 +24,7 @@ I am front end developer that know somethings of backend, I like to use electron
 
 <br/><br/>
 
-## My social midia
+## My social media
 
 <a href="https://www.linkedin.com/in/arthur-lobo-940a99263/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Arthur%20Lobo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
