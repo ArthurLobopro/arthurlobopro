@@ -42,6 +42,12 @@ I am a junior front end developer and know a little about backend. I am searchin
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=arthurlobopro&show_icons=true&theme=radical">
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthurlobopro/arthurlobopro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthurlobopro/arthurlobopro/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arthurlobopro/arthurlobopro/output/github-contribution-grid-snake.svg">
+</picture>
+
 <!-- ## I'm currently working/learning these technologies
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
