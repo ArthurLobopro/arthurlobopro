@@ -34,13 +34,18 @@ I am a junior front end developer and know a little about backend. I am searchin
  <img align="center" src="https://img.shields.io/badge/-Arthur%20Lobo-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
-## Some funny analytics
+## Some funny Things
 
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLobopro&theme=radical&layout=compact">
-
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=arthurlobopro&show_icons=true&theme=radical">
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arthurlobopro&show_icons=true&theme=radical&hide=issues">
+    </td>
+    <td>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLobopro&theme=radical&layout=compact&card_width=290">
+    </td>
+  </tr>  
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthurlobopro/arthurlobopro/output/github-contribution-grid-snake-dark.svg">
