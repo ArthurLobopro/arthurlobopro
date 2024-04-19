@@ -26,13 +26,8 @@ I am a junior front end developer and know a little about backend. I am searchin
 
 ## My social media
 
-<a href="https://www.linkedin.com/in/arthur-lobo-940a99263/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Arthur%20Lobo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-
-<a href="https://www.instagram.com/arthur_cipriano_lobo/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Arthur%20Lobo-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+[![linkedin](https://img.shields.io/badge/-Arthur%20Lobo-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/arthur-lobo-940a99263/)
+[![instagram](https://img.shields.io/badge/-Arthur%20Lobo-05122A?style=flat&logo=instagram)](https://www.instagram.com/arthur_cipriano_lobo/)
 
 ## Some funny Things
 
