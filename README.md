@@ -35,7 +35,7 @@ I am a junior front end developer and know a little about backend. I am searchin
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLobopro&theme=radical&layout=compact&card_width=290&&langs_count=4)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=arthurlobopro&show_icons=true&theme=radical&hide=issues&hide_title=true)
-  
+![](https://github-readme-streak-stats.herokuapp.com?user=Ak4ts&theme=react&date_format=M%20j%5B%2C%20Y%5D&theme=radical)
 </div>
 
 
