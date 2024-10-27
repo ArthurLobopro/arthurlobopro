@@ -49,6 +49,6 @@ I am a junior front end developer and know a little about backend. I am searchin
 
 <div align="center">
   <a href="https://www.pixme.bio/arthurlobo">
-    Donate ❤️
+   ❤️ Donate ❤️
   </a>
 </div>
