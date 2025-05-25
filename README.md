@@ -49,7 +49,7 @@ I am a junior front end developer and know a little about backend. I am searchin
 
 <div align="center">
   <a href="https://buymeacoffee.com/arthurlobo">
-   ❤️ Buy me a Coffe ❤️
+   ❤️ Buy me a Coffee ❤️
   </a>
 </div>
 
