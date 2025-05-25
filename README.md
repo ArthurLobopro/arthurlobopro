@@ -46,3 +46,18 @@ I am a junior front end developer and know a little about backend. I am searchin
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arthurlobopro/arthurlobopro/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/arthurlobo">
+   ❤️ Buy me a Coffe ❤️
+  </a>
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <a href="https://pixmeacoffee.vercel.app/arthurlobo">
+   🇧🇷 Doar 🇧🇷
+  </a>
+</div>
