@@ -1,6 +1,6 @@
 # Hi there, I'm Arthur Lobo 👋
 
-I am a junior front end developer and know a little about backend. I am searching for a job or internship to aquire experience in real projecs. If you like my profile and like me, just send a message in my social media.
+I am a fullstack developer that love make random and useful things. Fell free to contribute with any of my projects.
 
 ## My stack
 
