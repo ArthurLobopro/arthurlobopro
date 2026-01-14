@@ -27,6 +27,7 @@ I am a fullstack developer that love make random and useful things. Fell free to
 [![linkedin](https://img.shields.io/badge/-Arthur%20Lobo-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/arthur-lobo-940a99263/)
 [![instagram](https://img.shields.io/badge/-Arthur%20Lobo-05122A?style=flat&logo=instagram)](https://www.instagram.com/arthur_cipriano_lobo/)
 
+<!-- 
 ## Some funny Things
 
 <div align="center">
@@ -35,6 +36,7 @@ I am a fullstack developer that love make random and useful things. Fell free to
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=arthurlobopro&show_icons=true&theme=radical&hide=issues&hide_title=true)
 ![](https://github-readme-streak-stats.herokuapp.com?user=Ak4ts&theme=react&date_format=M%20j%5B%2C%20Y%5D&theme=radical)
 </div>
+-->
 
 
 <div align="center">
