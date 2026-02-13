@@ -48,16 +48,8 @@ I am a fullstack developer that love make random and useful things. Fell free to
 </div>
 
 <div align="center">
-  <a href="https://buymeacoffee.com/arthurlobo">
-   ❤️ Buy me a Coffee ❤️
-  </a>
+  ❤️ <a href="https://buymeacoffee.com/arthurlobo">Buy me a Coffee</a> ❤️
+  |
+  🇧🇷 <a href="https://pixmeacoffee.vercel.app/arthurlobo">Doar</a> 🇧🇷
 </div>
 
-<br>
-<br>
-
-<div align="center">
-  <a href="https://pixmeacoffee.vercel.app/arthurlobo">
-   🇧🇷 Doar 🇧🇷
-  </a>
-</div>
